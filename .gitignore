@@ -1,0 +1,11 @@
+image.dat
+ray_tracing.exe
+Milestone2/cuda-image.dat
+Milestone2/omp-image.dat
+Milestone2/a.out
+Milestone2/ray_tracing
+Final/cuda-image.dat
+Final/omp-image.dat
+Final/a.out
+Final/ray_tracing
+.vscode/settings.json
